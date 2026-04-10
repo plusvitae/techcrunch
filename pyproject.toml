@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "techcrunch"
 version = "1.0.0"
-description = "Terminal UI for TechCrunch: browse category feeds and read articles in the CLI."
+description = "Terminal UI for TechCrunch : browse category feeds and read articles in the CLI."
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"

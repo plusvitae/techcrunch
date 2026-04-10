@@ -9,7 +9,6 @@ description = "Terminal UI for TechCrunch : browse category feeds and read artic
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
-authors = [{ name = "Vishal Venkat" }]
 keywords = ["techcrunch", "tui", "terminal", "news", "textual"]
 classifiers = [
   "Environment :: Console",

@@ -16,15 +16,15 @@ techcrunch
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="docs/screenshots/ss1.svg" alt="Feed picker" width="100%" />
+      <img src="docs/screenshots/ss3.svg" alt="Feed picker" width="100%" />
       <br /><sub>Feed picker</sub>
     </td>
     <td align="center" width="33%">
-      <img src="docs/screenshots/ss2.svg" alt="Headlines" width="100%" />
+      <img src="docs/screenshots/ss1.svg" alt="Headlines" width="100%" />
       <br /><sub>Headlines</sub>
     </td>
     <td align="center" width="33%">
-      <img src="docs/screenshots/ss3.svg" alt="Article and tags" width="100%" />
+      <img src="docs/screenshots/ss2.svg" alt="Article and tags" width="100%" />
       <br /><sub>Article + tags</sub>
     </td>
   </tr>
